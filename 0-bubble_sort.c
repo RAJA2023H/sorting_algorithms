@@ -1,8 +1,9 @@
 #include "sort.h"
 /**
- * main - Entry point
- *
- * Return: Always 0
+ * bubble_sort - function name
+ * @array: pointer to array of integers
+ * @size: number of element in array
+ * Return: Nothing
  */
 
 void bubble_sort(int *array, size_t size)
